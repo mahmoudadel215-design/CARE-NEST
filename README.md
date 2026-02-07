@@ -11,23 +11,23 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - ---
 # Roles and Responsibilities
 ### UX Design Process
-## mahmoud & mohamed
+### mahmoud & mohamed
 - Market research 
 - 5W
 - Key attributes 
 - Business model
-## noureen & hager
+### noureen & hager
 - interview (user, stakholder)
 - Servay
 - Affinity map
 - Insights 
-## shorouk & esraa
+### shorouk & esraa
 - Persona
 - Empathy map
 - User journey 
 - Problem statement
 - Solution 
-## all team
+### all team
 - cart sorting
 - site map
 - user flow
