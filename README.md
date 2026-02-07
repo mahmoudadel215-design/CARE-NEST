@@ -10,7 +10,7 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Noureen Mohamed El Sayed
 - ---
 # Roles and Responsibilities
-### UX Design Process
+### UX
 ### mahmoud & mohamed
 - Market research 
 - 5W
