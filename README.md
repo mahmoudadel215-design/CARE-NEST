@@ -33,5 +33,5 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - user flow
 - ---
 # Instructor's name: Mohamed Kamar
-## Google drive link:
+## Google drive link: <br>
 https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing
